@@ -237,6 +237,7 @@ a:hover{
     text-align: center;
     text-decoration: none;
     outline: none;
+    border-radius: 5px;
 }
 
 .copyright{
